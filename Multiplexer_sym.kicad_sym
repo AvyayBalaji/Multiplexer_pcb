@@ -76,7 +76,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 5.08 180)
+				(at -6.35 5.08 0)
 				(length 2.54)
 				(name "Elec4"
 					(effects
@@ -94,7 +94,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 2.54 180)
+				(at -6.35 2.54 0)
 				(length 2.54)
 				(name "Elec6"
 					(effects
@@ -112,7 +112,7 @@
 				)
 			)
 			(pin input line
-				(at -3.81 0 180)
+				(at -6.35 0 0)
 				(length 2.54)
 				(name "[COM]"
 					(effects
@@ -130,7 +130,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -2.54 180)
+				(at -6.35 -2.54 0)
 				(length 2.54)
 				(name "Elec7"
 					(effects
@@ -148,7 +148,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -5.08 180)
+				(at -6.35 -5.08 0)
 				(length 2.54)
 				(name "Elec5"
 					(effects
@@ -166,7 +166,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -7.62 180)
+				(at -6.35 -7.62 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -184,7 +184,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -10.16 180)
+				(at -6.35 -10.16 0)
 				(length 2.54)
 				(name "n/c"
 					(effects
@@ -202,7 +202,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -3.81 -12.7 180)
+				(at -6.35 -12.7 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -220,7 +220,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 5.08 0)
+				(at 8.89 5.08 180)
 				(length 2.54)
 				(name "3.3V"
 					(effects
@@ -238,7 +238,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 2.54 0)
+				(at 8.89 2.54 180)
 				(length 2.54)
 				(name "Elec2"
 					(effects
@@ -256,7 +256,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 0 0)
+				(at 8.89 0 180)
 				(length 2.54)
 				(name "Elec1"
 					(effects
@@ -274,7 +274,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -2.54 0)
+				(at 8.89 -2.54 180)
 				(length 2.54)
 				(name "Elec0"
 					(effects
@@ -292,7 +292,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -5.08 0)
+				(at 8.89 -5.08 180)
 				(length 2.54)
 				(name "Elec3"
 					(effects
@@ -310,7 +310,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -7.62 0)
+				(at 8.89 -7.62 180)
 				(length 2.54)
 				(name "A(addr)"
 					(effects
@@ -328,7 +328,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -10.16 0)
+				(at 8.89 -10.16 180)
 				(length 2.54)
 				(name "B(addr)"
 					(effects
@@ -346,7 +346,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 6.35 -12.7 0)
+				(at 8.89 -12.7 180)
 				(length 2.54)
 				(name "C(addr)"
 					(effects
