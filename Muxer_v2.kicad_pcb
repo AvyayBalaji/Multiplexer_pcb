@@ -2844,6 +2844,17 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_rect
+		(start 100 50)
+		(end 167 141.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Cu")
+		(uuid "95929722-18c5-4e7b-ae07-ca84f45c7146")
+	)
 	(segment
 		(start 138.62 114.698)
 		(end 144.798 114.698)
